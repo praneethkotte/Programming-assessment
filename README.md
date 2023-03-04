@@ -6,7 +6,7 @@ This file opens automatically when you open a project.
 
 If you do not create Guides, this `README.md` will be what automatically opens for students. You can edit this file by clicking on the pencil icon in the upper right corner.
 
-<!-- ### How do I get started with Codio?
+### How do I get started with Codio?
 Use this [Onboarding Guide](https://codio.com/home/starter-packs/2ae8501b-e5f7-4b07-8e9f-adb155fc6d10) for an interactive tutorial through the main features of Codio. Click on the link, click **Use Pack** and then click **Create** to add it to your projects.
 
 ### How do I close this file?
@@ -22,6 +22,6 @@ Click on the **Open Guides Editor** icon to edit the Guide.
 
 ### How do I delete this file?
 To delete this `README.md` file, right-click (ctrl-click on a Mac) on the file name in the file list.
-![fileTree](https://global.codio.com/platform/readme.resources/fileTree.png) --> -->
+![fileTree](https://global.codio.com/platform/readme.resources/fileTree.png) -->
 
 
